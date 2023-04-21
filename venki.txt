@@ -3,4 +3,6 @@ select screm
 creat project
 hello world
 testing
+computer
+change main
 
