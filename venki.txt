@@ -5,4 +5,5 @@ hello world
 testing
 computer
 change main
-
+manuly
+automaticaly
